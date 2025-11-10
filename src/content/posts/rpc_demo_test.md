@@ -4,7 +4,7 @@ published: 2025-11-10
 description: ''
 image: './guide/cover.jpeg'
 tags: [frida]
-category: ''
+category: 're'
 draft: false 
 lang: ''
 ---
