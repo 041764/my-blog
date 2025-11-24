@@ -64,11 +64,11 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://qm.qq.com/q/hiY5ZATwE8",
 		},
-		// {
-		// 	name: "Steam",
-		// 	icon: "fa6-brands:steam",
-		// 	url: "https://store.steampowered.com",
-		// },
+		{
+			name: "Telegram",
+			icon: "fa6-brands:telegram",
+			url: "https://t.me/llwllwllwllwllwllw",
+		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
